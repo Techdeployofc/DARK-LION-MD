@@ -1,5 +1,5 @@
 {
-  "name": "TOHID_MD",
+  "name": "LION_MD",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴛᴏʜɪᴅ ᴋʜᴀɴ",
   "logo": "https://i.imgur.com/M1BzE37.jpeg",
   "keywords": ["bot"],
@@ -8,9 +8,9 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "vQJXlYTS#n4_LCry2tR8U2T8ujaDqZ-9G8PCY9pFlf0QfUbDRyCg",
+      "description": "qM5GzQYY#YYmGEZeLXmo6RYnCv-_3EkyBmSb8-7BFcrQyS5THurE",
       "required": true,
-      "value": "vQJXlYTS#n4_LCry2tR8U2T8ujaDqZ-9G8PCY9pFlf0QfUbDRyCg"
+      "value": "qM5GzQYY#YYmGEZeLXmo6RYnCv-_3EkyBmSb8-7BFcrQyS5THurE"
     },  
     
     "ALIVE_IMG": {
